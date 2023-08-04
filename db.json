@@ -1,0 +1,22 @@
+{
+  "cruddata": [
+    {
+      "id": 2,
+      "name": "Kanha",
+      "phone": "8984242143",
+      "email": "satyajit29p@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "satyajit pradhan",
+      "phone": "123456899",
+      "email": "satyajit1997@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "master admin",
+      "phone": "89765432",
+      "email": "master@gmail.com"
+    }
+  ]
+}
